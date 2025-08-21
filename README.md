@@ -1,4 +1,5 @@
-GROUP 36
+Alpha Software Engineering
+Group 4
 DCIT 204
 NAME	ID	
 1.	JARAWURA WILLIAMS KOTIRI	    22013675	
