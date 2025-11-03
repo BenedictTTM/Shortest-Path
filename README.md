@@ -14,7 +14,7 @@ NAME	ID
 PRESENTATION OF ALGORITHM
 SUMMARY OF THE PROJECT DESCRIPTION
  	The primary objective of this project is to address the movement issue within our campus.
- 	Our goal is to determine the most efficient route between two distinct locations on campus by finding the shortest path connecting them.
+ 	Our goal is to determine the most efficient route between two distinct locations on campus by finding the shortest path connecting them
  	We plan to incorporate the Vogel approximation method into our project solution to optimize the transportation process and improve efficiency. 
 OBJECTIVES ACHIEVED BY THE GROUP
 	We successfully determined the shortest paths within weighted graphs, effectively solving this problem.
